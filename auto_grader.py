@@ -23,7 +23,7 @@ def importGithubFiles():
     #class_name=input("\nEnter the class name for github repository... For example, bu-cs540-2019s \n") 
     class_name="bu-cs540-20191s"
     #project_name=input("\nInput the project name... For example, container_in_c \n")
-    project_name="midterm1"
+    project_name="map-container"
 
     print("\nNow creating folder for project... \n ")
     os.chdir("{}".format(p))
@@ -36,16 +36,23 @@ def importGithubFiles():
     
     with open("{}".format(ids)) as f:
         githubids=f.read().splitlines()
-
-    for id,i in zip(githubids,tqdm(range(len(githubids)))):
-        web_address=os.path.join("https://github.com","midterm","{}-{}".format(project_name,id))
+    
+    for ids,i in zip(githubids,tqdm(range(len(githubids)))):
+        web_address=os.path.join("https://github.com","{}/{}-{}".format(class_name,project_name,ids))
+        print(web_address)
         os.chdir("{}".format(project_path))
         os.system("git clone {} > garbage 2>&1".format(web_address))
         os.chdir("{}".format(parent_path))
 
-    print("\n-------------DONE-------------------\n")
 
+    os.chdir("{}".format(project_path))
+    os.system("rm garbage")
+    os.chdir("{}".format(parent_path))
+    print("\n\n-------------DONE-------------------\n")
 
+def runningMossOnSubmissions():
+    
 def main():
     importGithubFiles()
+    runningMossOnSubmissions()
 main()
