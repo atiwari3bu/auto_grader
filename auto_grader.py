@@ -41,7 +41,8 @@ def importGithubFiles(data):
     sys.stdout.write("[%s]" % (" " * toolbar_width))
     sys.stdout.flush()
     sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
-    ''' 
+
+    
     for ids,i in zip(github_ids,range(0,toolbar_width)):
         web_address=os.path.join("https://github.com","{}/{}-{}".format(data.class_name,data.project_name,ids))
         #print(web_address)
@@ -51,20 +52,49 @@ def importGithubFiles(data):
         # update the bar
         sys.stdout.write("-")
         sys.stdout.flush()
-    '''
+    
+    
     sys.stdout.write("\n") 
     os.system("rm garbage")
     os.chdir("{}".format(parent_path))
-    print("\n Succesfully cloned projects in {} folder\n".format(data.project_name))
+    print("\nSuccesfully cloned projects in {} folder\n".format(data.project_name))
 
 
 def runningMossOnSubmissions(data):
-    submissions=[x for x in os.listdir(os.getcwd())]
     print("Coping moss from parent directory to project directory and changing its permissions\n")
     os.system("cp moss.pl {}".format(data.project_path))
     os.chdir("{}".format(data.project_path))
+    submissions=[x for x in os.listdir(os.getcwd())]
     os.system("chmod ug+x moss.pl")
-
+    command="./moss.pl -l cc -d "
+    
+    for project_name in submissions:
+        print(project_name)
+        if(project_name=="moss.pl" or project_name=="report.txt"):
+            continue
+        
+        project_dir=os.path.join(os.getcwd(),project_name)
+        files=[x for x in os.listdir(project_dir)]
+        if (len(files)==1):
+            continue
+                    
+        for file_name in files:
+            path_exists=False
+            file_path=os.path.join(project_dir,file_name)
+            
+            if(os.path.isdir("{}".format(file_path))):
+                if(file_name==".git"):
+                    continue
+                #print(file_path)
+                path_exists=True
+            
+        if(path_exists==False):
+            command+=project_dir
+            command+="/* "
+         
+    print(command)
+    os.system("{} > report.txt".format(command))
+    print("Result for the moss is written into result.txt file in your project folder")
 
 def main(arg):
     if(len(arg)!=4):
