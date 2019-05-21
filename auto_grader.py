@@ -36,13 +36,13 @@ def importGithubFiles(data):
 
     print("Cloning github repositories ... \n")
     os.system("git config --global credential.helper {}".format('cache --timeout=3600'))
-    
+   
     toolbar_width = len(github_ids)
     sys.stdout.write("[%s]" % (" " * toolbar_width))
     sys.stdout.flush()
     sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
 
-    
+      
     for ids,i in zip(github_ids,range(0,toolbar_width)):
         web_address=os.path.join("https://github.com","{}/{}-{}".format(data.class_name,data.project_name,ids))
         #print(web_address)
@@ -58,7 +58,7 @@ def importGithubFiles(data):
     os.system("rm garbage")
     os.chdir("{}".format(parent_path))
     print("\nSuccesfully cloned projects in {} folder\n".format(data.project_name))
-
+    
 
 def runningMossOnSubmissions(data):
     print("Coping moss from parent directory to project directory and changing its permissions\n")
@@ -69,7 +69,6 @@ def runningMossOnSubmissions(data):
     command="./moss.pl -l cc -d "
     
     for project_name in submissions:
-        print(project_name)
         if(project_name=="moss.pl" or project_name=="report.txt"):
             continue
         
@@ -78,23 +77,62 @@ def runningMossOnSubmissions(data):
         if (len(files)==1):
             continue
                     
+        path_exists=False
         for file_name in files:
-            path_exists=False
+            if(file_name==".git" or file_name==".DS_Store"):
+                continue
             file_path=os.path.join(project_dir,file_name)
             
             if(os.path.isdir("{}".format(file_path))):
-                if(file_name==".git"):
-                    continue
-                #print(file_path)
+                print(file_path)
+                command+=file_path
+                command+="/* "
                 path_exists=True
+                
+            else:
+                command+=file_path
+                command+=" "
             
-        if(path_exists==False):
-            command+=project_dir
-            command+="/* "
+        #if(path_exists==False):
+            #command+=project_dir
+            #command+="/* "
+         #   command+=project_dir
+          #  command+=" "
+
          
     print(command)
-    os.system("{} > report.txt".format(command))
-    print("Result for the moss is written into result.txt file in your project folder")
+    os.system("touch report.txt")
+    os.system("{} 2>&1 report.txt".format(command))
+    print("Result for the moss is written into report.txt file in your project folder")
+
+def compilingAndRunning(data):
+    os.chdir("{}".format(data.parent_path))
+    files=[x for x in os.listdir(os.getcwd())]
+    
+    if("test_cases" not in files):
+        print("\nNo folder like test_cases present in auto_grader directory\n")
+        return
+
+    os.chdir(os.path.join(data.parent_path,"test_cases"))
+    
+    for test_file in os.listdir(os.getcwd()):
+        print(test_file)
+        print("\ncopying {} into target files\n".format(test_file))
+        os.system("cp {} {}".format(test_file,data.project_path))
+        os.chdir(data.project_path)
+
+        for submission in os.listdir(os.getcwd()):
+            if(submission=="report.txt" or submission=="moss.pl"): 
+                continue
+            print(submission)
+            
+            pt=os.path.join(os.getcwd(),submission)
+            os.system("cp {} {} ".format(test_file,pt))
+            fl=open("report.txt","a")
+            fl.write("Compiling {} for {}\n ".format(test_file,submission))
+
+        os.system("rm {}".format(test_file))
+
 
 def main(arg):
     if(len(arg)!=4):
@@ -103,6 +141,7 @@ def main(arg):
 
     data=Inputdata(arg)
     importGithubFiles(data)
-    runningMossOnSubmissions(data)
+    #runningMossOnSubmissions(data)
+    compilingAndRunning(data)
 
 main(sys.argv)
