@@ -11,6 +11,7 @@ class Inputdata:
         self.project_name=arg[3]
         self.project_path=None
         self.parent_path=None
+        self.exclude=[]
 
 def importGithubFiles(data):
     file_present=False
@@ -67,9 +68,13 @@ def runningMossOnSubmissions(data):
     submissions=[x for x in os.listdir(os.getcwd())]
     os.system("chmod ug+x moss.pl")
     command="./moss.pl -l cc -d "
+    data.exclude.append("moss.pl")
+    data.exclude.append("report.txt")
+    data.exclude.append("out")
+    data.exclude.append("a.out")
     
     for project_name in submissions:
-        if(project_name=="moss.pl" or project_name=="report.txt"):
+        if( project_name in data.exclude):
             continue
         
         project_dir=os.path.join(os.getcwd(),project_name)
@@ -77,32 +82,11 @@ def runningMossOnSubmissions(data):
         if (len(files)==1):
             continue
                     
-        path_exists=False
-        for file_name in files:
-            if(file_name==".git" or file_name==".DS_Store"):
-                continue
-            file_path=os.path.join(project_dir,file_name)
-            
-            if(os.path.isdir("{}".format(file_path))):
-                print(file_path)
-                command+=file_path
-                command+="/* "
-                path_exists=True
-                
-            else:
-                command+=file_path
-                command+=" "
-            
-        #if(path_exists==False):
-            #command+=project_dir
-            #command+="/* "
-         #   command+=project_dir
-          #  command+=" "
-
+        command+=project_dir
+        command+="/* "
          
     print(command)
-    os.system("touch report.txt")
-    os.system("{} 2>&1 report.txt".format(command))
+    os.system("{} > report.txt 2>&1".format(command))
     print("Result for the moss is written into report.txt file in your project folder")
 
 def compilingAndRunning(data):
@@ -120,19 +104,46 @@ def compilingAndRunning(data):
         print("\ncopying {} into target files\n".format(test_file))
         os.system("cp {} {}".format(test_file,data.project_path))
         os.chdir(data.project_path)
+        fl=open("report.txt","a")
+        fl.write("\n\n Compilation for {} begins\n \n".format(test_file))
+        fl.close()
+
+        i=0
 
         for submission in os.listdir(os.getcwd()):
-            if(submission=="report.txt" or submission=="moss.pl"): 
+            if(i==1):
+                break
+            i+=1
+            if(submission in data.exclude):
                 continue
+
             print(submission)
             
             pt=os.path.join(os.getcwd(),submission)
             os.system("cp {} {} ".format(test_file,pt))
             fl=open("report.txt","a")
-            fl.write("Compiling {} for {}\n ".format(test_file,submission))
+            fl.write("\nCompiling {} for {}\n ".format(test_file,submission))
+            os.system("g++ -std=c++14 {} -ldl -pthread > out 2>&1".format(os.path.join(pt,test_file)))
+            if len(open("out").readlines())==0:
+                fl.write("\nSuccesfully compiled {} for {}\n ".format(test_file,submission))
+                fl.write("\n Now running the program\n")
+                os.system("./a.out > out 2>&1")
+                lines=open("out").readlines()
+                for line in lines:
+                    fl.write("{}".format(line))
+                fl.close()
+                
+            else:
+                fl.write("\n Cannot compile {} for {}\n ".format(test_file,submission))
+                lines=open("out").readlines()
+                for line in lines:
+                    fl.write("{}".format(line))
+                fl.close()
+
+            os.system("rm out") 
 
         os.system("rm {}".format(test_file))
-
+#ashish@ashish-Inspiron:~/aoops/smart-pointer$ g++ -std=c++14 smart-pointer-pgolden1/SharedPtr_test.cpp -ldl -pthread > out 2>&1
 
 def main(arg):
     if(len(arg)!=4):
@@ -141,7 +152,7 @@ def main(arg):
 
     data=Inputdata(arg)
     importGithubFiles(data)
-    #runningMossOnSubmissions(data)
+    runningMossOnSubmissions(data)
     compilingAndRunning(data)
 
 main(sys.argv)
