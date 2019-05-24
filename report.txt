@@ -1,0 +1,1551 @@
+Checking files . . . 
+OK
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-Jrising1/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-Jrising1/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-Jrising1/makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-yma73/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-yma73/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-yma73/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-yma73/makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-TroyBallinger/Makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-TroyBallinger/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-TroyBallinger/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-TroyBallinger/test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-ryan-bing/Makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-ryan-bing/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-ryan-bing/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-ryan-bing/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-dirwin1/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-92kb/Readme.txt ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-92kb/SharedPtr.hpp.txt ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-92kb/test.cpp.txt ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-jeymer/Makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-jeymer/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-jeymer/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-jeymer/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-smathiv1/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-smathiv1/makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-smathiv1/sharedptr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-smathiv1/test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-jleona15/Makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-jleona15/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-jleona15/test2.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-leandro19/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-leandro19/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-leandro19/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-leandro19/makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-pgolden1/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-pgolden1/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-pgolden1/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-JonathanWu1120/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-JonathanWu1120/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-JonathanWu1120/makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-JonathanWu1120/readme.txt ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-szaman19/Makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-szaman19/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-szaman19/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-nvallej1/Makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-nvallej1/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-nvallej1/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-nvallej1/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-schen2315/Makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-schen2315/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-schen2315/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-schen2315/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-schen2315/actual_shared_ptr_tests.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-aliardaeker/Makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-aliardaeker/README.txt ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-aliardaeker/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-aliardaeker/Test_orig.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-PrachiPatel20/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-swehbe1/FirstAttempt.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-swehbe1/README ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-swehbe1/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-swehbe1/makefile ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-swehbe1/prof-test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-swehbe1/sdw-test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-grawlixes/README.md ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-grawlixes/SharedPtr.hpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-grawlixes/SharedPtr_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-grawlixes/kfranke1_test.cpp ...done.
+Uploading /home/ashish/aoops/smart-pointer/smart-pointer-grawlixes/makefile ...done.
+Query submitted.  Waiting for the server's response.
+http://moss.stanford.edu/results/963900018
+
+
+ Compilation for SharedPtr_test.cpp begins
+ 
+
+Compiling SharedPtr_test.cpp for smart-pointer-Jrising1
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-Jrising1
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140143623612160: assignment_new=2032154 ops, assignment=856756 ops, reset=2029750 ops, new_default=1433288 ops, new_copy=592795 ops, delete=2025443 ops
+    rates: assignment_new=135477 ops/sec, assignment=57117 ops/sec, reset=135317 ops/sec, new_default=95553 ops/sec, new_copy=39520 ops/sec, delete=135030 ops/sec
+140143648790272: assignment_new=2032748 ops, assignment=855938 ops, reset=2030259 ops, new_default=1437688 ops, new_copy=594595 ops, delete=2031618 ops
+    rates: assignment_new=135517 ops/sec, assignment=57063 ops/sec, reset=135351 ops/sec, new_default=95846 ops/sec, new_copy=39640 ops/sec, delete=135441 ops/sec
+140143632004864: assignment_new=2029341 ops, assignment=855843 ops, reset=2030154 ops, new_default=1430878 ops, new_copy=591080 ops, delete=2023421 ops
+    rates: assignment_new=135289 ops/sec, assignment=57056 ops/sec, reset=135344 ops/sec, new_default=95392 ops/sec, new_copy=39405 ops/sec, delete=134895 ops/sec
+140143640397568: assignment_new=2026533 ops, assignment=853339 ops, reset=2027903 ops, new_default=1435409 ops, new_copy=592525 ops, delete=2027730 ops
+    rates: assignment_new=135102 ops/sec, assignment=56889 ops/sec, reset=135194 ops/sec, new_default=95694 ops/sec, new_copy=39502 ops/sec, delete=135182 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-yma73
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-yma73
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+...
+...
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+139987278362368: assignment_new=2500099 ops, assignment=1053627 ops, reset=2499082 ops, new_default=1764723 ops, new_copy=728901 ops, delete=2494291 ops
+    rates: assignment_new=166673 ops/sec, assignment=70242 ops/sec, reset=166605 ops/sec, new_default=117648 ops/sec, new_copy=48593 ops/sec, delete=166286 ops/sec
+139987490707200: assignment_new=2501863 ops, assignment=1056237 ops, reset=2500715 ops, new_default=1766127 ops, new_copy=729859 ops, delete=2497970 ops
+    rates: assignment_new=166791 ops/sec, assignment=70416 ops/sec, reset=166714 ops/sec, new_default=117742 ops/sec, new_copy=48657 ops/sec, delete=166531 ops/sec
+139987499099904: assignment_new=2514997 ops, assignment=1059964 ops, reset=2516113 ops, new_default=1779768 ops, new_copy=735308 ops, delete=2514058 ops
+    rates: assignment_new=167666 ops/sec, assignment=70664 ops/sec, reset=167741 ops/sec, new_default=118651 ops/sec, new_copy=49021 ops/sec, delete=167604 ops/sec
+139987507492608: assignment_new=2498611 ops, assignment=1051445 ops, reset=2500451 ops, new_default=1770063 ops, new_copy=731861 ops, delete=2500250 ops
+    rates: assignment_new=166574 ops/sec, assignment=70096 ops/sec, reset=166697 ops/sec, new_default=118004 ops/sec, new_copy=48791 ops/sec, delete=166683 ops/sec
+
+Compiling SharedPtr_test.cpp for SharedPtr_test.cpp
+ 
+ Cannot compile SharedPtr_test.cpp for SharedPtr_test.cpp
+ g++: error: /home/ashish/aoops/smart-pointer/SharedPtr_test.cpp/SharedPtr_test.cpp: Not a directory
+
+Compiling SharedPtr_test.cpp for smart-pointer-TroyBallinger
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-TroyBallinger
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140604174964480: assignment_new=2134097 ops, assignment=900033 ops, reset=2131033 ops, new_default=1510769 ops, new_copy=622885 ops, delete=2132395 ops
+    rates: assignment_new=142273 ops/sec, assignment=60002 ops/sec, reset=142069 ops/sec, new_default=100718 ops/sec, new_copy=41526 ops/sec, delete=142160 ops/sec
+140604075931392: assignment_new=2143113 ops, assignment=906197 ops, reset=2143960 ops, new_default=1511139 ops, new_copy=624596 ops, delete=2137818 ops
+    rates: assignment_new=142874 ops/sec, assignment=60413 ops/sec, reset=142931 ops/sec, new_default=100743 ops/sec, new_copy=41640 ops/sec, delete=142521 ops/sec
+140604158179072: assignment_new=2146139 ops, assignment=903554 ops, reset=2146265 ops, new_default=1513535 ops, new_copy=626421 ops, delete=2138187 ops
+    rates: assignment_new=143076 ops/sec, assignment=60237 ops/sec, reset=143084 ops/sec, new_default=100902 ops/sec, new_copy=41761 ops/sec, delete=142546 ops/sec
+140604166571776: assignment_new=2131929 ops, assignment=899054 ops, reset=2135896 ops, new_default=1510824 ops, new_copy=624125 ops, delete=2135850 ops
+    rates: assignment_new=142129 ops/sec, assignment=59937 ops/sec, reset=142393 ops/sec, new_default=100722 ops/sec, new_copy=41608 ops/sec, delete=142390 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-ryan-bing
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-ryan-bing
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+139855453730560: assignment_new=2438804 ops, assignment=1027807 ops, reset=2436831 ops, new_default=1721367 ops, new_copy=710578 ops, delete=2433732 ops
+    rates: assignment_new=162587 ops/sec, assignment=68520 ops/sec, reset=162455 ops/sec, new_default=114758 ops/sec, new_copy=47372 ops/sec, delete=162249 ops/sec
+139855470515968: assignment_new=2448435 ops, assignment=1029536 ops, reset=2447101 ops, new_default=1735355 ops, new_copy=715404 ops, delete=2451339 ops
+    rates: assignment_new=163229 ops/sec, assignment=68636 ops/sec, reset=163140 ops/sec, new_default=115690 ops/sec, new_copy=47694 ops/sec, delete=163423 ops/sec
+139855445337856: assignment_new=2441282 ops, assignment=1030458 ops, reset=2443025 ops, new_default=1726620 ops, new_copy=711290 ops, delete=2437745 ops
+    rates: assignment_new=162752 ops/sec, assignment=68697 ops/sec, reset=162868 ops/sec, new_default=115108 ops/sec, new_copy=47419 ops/sec, delete=162516 ops/sec
+139855462123264: assignment_new=2467297 ops, assignment=1039509 ops, reset=2469969 ops, new_default=1747485 ops, new_copy=720565 ops, delete=2465800 ops
+    rates: assignment_new=164486 ops/sec, assignment=69301 ops/sec, reset=164665 ops/sec, new_default=116499 ops/sec, new_copy=48038 ops/sec, delete=164387 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-dirwin1
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-dirwin1
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140340823385856: assignment_new=2334249 ops, assignment=983128 ops, reset=2334307 ops, new_default=1644544 ops, new_copy=680059 ops, delete=2323240 ops
+    rates: assignment_new=155617 ops/sec, assignment=65542 ops/sec, reset=155620 ops/sec, new_default=109636 ops/sec, new_copy=45337 ops/sec, delete=154883 ops/sec
+140340831778560: assignment_new=2320425 ops, assignment=976785 ops, reset=2320732 ops, new_default=1643006 ops, new_copy=678978 ops, delete=2319990 ops
+    rates: assignment_new=154695 ops/sec, assignment=65119 ops/sec, reset=154715 ops/sec, new_default=109534 ops/sec, new_copy=45265 ops/sec, delete=154666 ops/sec
+140340740749056: assignment_new=2344573 ops, assignment=989251 ops, reset=2345018 ops, new_default=1651334 ops, new_copy=681668 ops, delete=2334493 ops
+    rates: assignment_new=156305 ops/sec, assignment=65950 ops/sec, reset=156335 ops/sec, new_default=110089 ops/sec, new_copy=45445 ops/sec, delete=155633 ops/sec
+140340840171264: assignment_new=2331178 ops, assignment=983337 ops, reset=2331596 ops, new_default=1651033 ops, new_copy=681397 ops, delete=2334253 ops
+    rates: assignment_new=155412 ops/sec, assignment=65556 ops/sec, reset=155440 ops/sec, new_default=110069 ops/sec, new_copy=45426 ops/sec, delete=155617 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-92kb
+ 
+ Cannot compile SharedPtr_test.cpp for smart-pointer-92kb
+ /home/ashish/aoops/smart-pointer/smart-pointer-92kb/SharedPtr_test.cpp:9:25: fatal error: SharedPtr.hpp: No such file or directory
+compilation terminated.
+
+Compiling SharedPtr_test.cpp for smart-pointer-jeymer
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-jeymer
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140367315859200: assignment_new=2406447 ops, assignment=1014372 ops, reset=2402856 ops, new_default=1696347 ops, new_copy=699839 ops, delete=2395478 ops
+    rates: assignment_new=160430 ops/sec, assignment=67625 ops/sec, reset=160190 ops/sec, new_default=113090 ops/sec, new_copy=46656 ops/sec, delete=159699 ops/sec
+140367576659712: assignment_new=2403976 ops, assignment=1012793 ops, reset=2408293 ops, new_default=1701622 ops, new_copy=704010 ops, delete=2406130 ops
+    rates: assignment_new=160265 ops/sec, assignment=67520 ops/sec, reset=160553 ops/sec, new_default=113441 ops/sec, new_copy=46934 ops/sec, delete=160409 ops/sec
+140367585052416: assignment_new=2413962 ops, assignment=1017601 ops, reset=2414855 ops, new_default=1709985 ops, new_copy=705358 ops, delete=2413690 ops
+    rates: assignment_new=160931 ops/sec, assignment=67840 ops/sec, reset=160990 ops/sec, new_default=113999 ops/sec, new_copy=47024 ops/sec, delete=160913 ops/sec
+140367568267008: assignment_new=2413283 ops, assignment=1018235 ops, reset=2412992 ops, new_default=1703401 ops, new_copy=702659 ops, delete=2407881 ops
+    rates: assignment_new=160886 ops/sec, assignment=67882 ops/sec, reset=160866 ops/sec, new_default=113560 ops/sec, new_copy=46844 ops/sec, delete=160525 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-smathiv1
+ 
+ Cannot compile SharedPtr_test.cpp for smart-pointer-smathiv1
+ /home/ashish/aoops/smart-pointer/smart-pointer-smathiv1/SharedPtr_test.cpp:9:25: fatal error: SharedPtr.hpp: No such file or directory
+compilation terminated.
+
+Compiling SharedPtr_test.cpp for smart-pointer-jleona15
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-jleona15
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140677460018944: assignment_new=2165588 ops, assignment=914232 ops, reset=2164288 ops, new_default=1531131 ops, new_copy=631870 ops, delete=2162066 ops
+    rates: assignment_new=144373 ops/sec, assignment=60949 ops/sec, reset=144286 ops/sec, new_default=102075 ops/sec, new_copy=42125 ops/sec, delete=144138 ops/sec
+140677476804352: assignment_new=2165467 ops, assignment=913640 ops, reset=2165058 ops, new_default=1535843 ops, new_copy=632868 ops, delete=2169701 ops
+    rates: assignment_new=144364 ops/sec, assignment=60909 ops/sec, reset=144337 ops/sec, new_default=102390 ops/sec, new_copy=42191 ops/sec, delete=144647 ops/sec
+140677468411648: assignment_new=2154487 ops, assignment=906465 ops, reset=2158458 ops, new_default=1526661 ops, new_copy=631517 ops, delete=2157707 ops
+    rates: assignment_new=143632 ops/sec, assignment=60431 ops/sec, reset=143897 ops/sec, new_default=101777 ops/sec, new_copy=42101 ops/sec, delete=143847 ops/sec
+140677358810880: assignment_new=2156133 ops, assignment=909527 ops, reset=2156943 ops, new_default=1524685 ops, new_copy=629656 ops, delete=2154717 ops
+    rates: assignment_new=143742 ops/sec, assignment=60635 ops/sec, reset=143796 ops/sec, new_default=101646 ops/sec, new_copy=41977 ops/sec, delete=143648 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-leandro19
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-leandro19
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+139807119570688: assignment_new=2405950 ops, assignment=1013754 ops, reset=2407816 ops, new_default=1705907 ops, new_copy=703559 ops, delete=2407027 ops
+    rates: assignment_new=160397 ops/sec, assignment=67584 ops/sec, reset=160521 ops/sec, new_default=113727 ops/sec, new_copy=46904 ops/sec, delete=160468 ops/sec
+139807111177984: assignment_new=2424907 ops, assignment=1021400 ops, reset=2426466 ops, new_default=1715481 ops, new_copy=708630 ops, delete=2425686 ops
+    rates: assignment_new=161660 ops/sec, assignment=68093 ops/sec, reset=161764 ops/sec, new_default=114365 ops/sec, new_copy=47242 ops/sec, delete=161712 ops/sec
+139807102785280: assignment_new=2417253 ops, assignment=1017365 ops, reset=2415125 ops, new_default=1688779 ops, new_copy=699557 ops, delete=2388432 ops
+    rates: assignment_new=161150 ops/sec, assignment=67824 ops/sec, reset=161008 ops/sec, new_default=112585 ops/sec, new_copy=46637 ops/sec, delete=159229 ops/sec
+139806889735936: assignment_new=2418444 ops, assignment=1021020 ops, reset=2418212 ops, new_default=1696409 ops, new_copy=701586 ops, delete=2398719 ops
+    rates: assignment_new=161230 ops/sec, assignment=68068 ops/sec, reset=161214 ops/sec, new_default=113094 ops/sec, new_copy=46772 ops/sec, delete=159915 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-sambrv
+ 
+ Cannot compile SharedPtr_test.cpp for smart-pointer-sambrv
+ /home/ashish/aoops/smart-pointer/smart-pointer-sambrv/SharedPtr_test.cpp:9:25: fatal error: SharedPtr.hpp: No such file or directory
+compilation terminated.
+
+Compiling SharedPtr_test.cpp for smart-pointer-pgolden1
+ 
+ Cannot compile SharedPtr_test.cpp for smart-pointer-pgolden1
+ /tmp/ccHN3YsK.o: In function `basic_tests_1()':
+SharedPtr_test.cpp:(.text+0x357): undefined reference to `cs540::SharedPtr<Base1>& cs540::SharedPtr<Base1>::operator=<Derived>(cs540::SharedPtr<Derived> const&)'
+SharedPtr_test.cpp:(.text+0x510): undefined reference to `cs540::SharedPtr<Base1>& cs540::SharedPtr<Base1>::operator=<Derived>(cs540::SharedPtr<Derived> const&)'
+SharedPtr_test.cpp:(.text+0x539): undefined reference to `cs540::SharedPtr<Base1>& cs540::SharedPtr<Base1>::operator=<Derived>(cs540::SharedPtr<Derived> const&)'
+SharedPtr_test.cpp:(.text+0x5bc): undefined reference to `cs540::SharedPtr<Base1>& cs540::SharedPtr<Base1>::operator=<Derived>(cs540::SharedPtr<Derived> const&)'
+SharedPtr_test.cpp:(.text+0xa84): undefined reference to `cs540::SharedPtr<Derived> cs540::static_pointer_cast<Derived, Base1>(cs540::SharedPtr<Base1> const&)'
+SharedPtr_test.cpp:(.text+0xb07): undefined reference to `cs540::SharedPtr<Derived_polymorphic> cs540::dynamic_pointer_cast<Derived_polymorphic, Base_polymorphic>(cs540::SharedPtr<Base_polymorphic> const&)'
+SharedPtr_test.cpp:(.text+0xb20): undefined reference to `cs540::SharedPtr<Derived_polymorphic> cs540::static_pointer_cast<Derived_polymorphic, Base_polymorphic>(cs540::SharedPtr<Base_polymorphic> const&)'
+SharedPtr_test.cpp:(.text+0xb36): undefined reference to `cs540::SharedPtr<Derived2_polymorphic> cs540::dynamic_pointer_cast<Derived2_polymorphic, Base_polymorphic>(cs540::SharedPtr<Base_polymorphic> const&)'
+SharedPtr_test.cpp:(.text+0xc05): undefined reference to `cs540::SharedPtr<Base1>& cs540::SharedPtr<Base1>::operator=<Derived_mi>(cs540::SharedPtr<Derived_mi> const&)'
+SharedPtr_test.cpp:(.text+0xc1e): undefined reference to `cs540::SharedPtr<Derived_mi> cs540::static_pointer_cast<Derived_mi, Base1>(cs540::SharedPtr<Base1> const&)'
+SharedPtr_test.cpp:(.text+0xc34): undefined reference to `cs540::SharedPtr<Base2> cs540::static_pointer_cast<Base2, Derived_mi>(cs540::SharedPtr<Derived_mi> const&)'
+SharedPtr_test.cpp:(.text+0xc4a): undefined reference to `cs540::SharedPtr<Base2>::operator=(cs540::SharedPtr<Base2>&&)'
+SharedPtr_test.cpp:(.text+0xce1): undefined reference to `cs540::SharedPtr<Derived_mi> cs540::static_pointer_cast<Derived_mi, Derived_mi>(cs540::SharedPtr<Derived_mi> const&)'
+SharedPtr_test.cpp:(.text+0xcf7): undefined reference to `cs540::SharedPtr<Base1> cs540::static_pointer_cast<Base1, Derived_mi>(cs540::SharedPtr<Derived_mi> const&)'
+SharedPtr_test.cpp:(.text+0xd0d): undefined reference to `cs540::SharedPtr<Base1>::operator=(cs540::SharedPtr<Base1>&&)'
+SharedPtr_test.cpp:(.text+0xd95): undefined reference to `cs540::SharedPtr<Derived_mi> cs540::static_pointer_cast<Derived_mi, Derived_mi>(cs540::SharedPtr<Derived_mi> const&)'
+SharedPtr_test.cpp:(.text+0xdab): undefined reference to `cs540::SharedPtr<Base2> cs540::static_pointer_cast<Base2, Derived_mi>(cs540::SharedPtr<Derived_mi> const&)'
+SharedPtr_test.cpp:(.text+0xdc1): undefined reference to `cs540::SharedPtr<Base2>::operator=(cs540::SharedPtr<Base2>&&)'
+SharedPtr_test.cpp:(.text+0xe52): undefined reference to `cs540::SharedPtr<Base1_vi>& cs540::SharedPtr<Base1_vi>::operator=<Derived_vi>(cs540::SharedPtr<Derived_vi> const&)'
+SharedPtr_test.cpp:(.text+0xe68): undefined reference to `cs540::SharedPtr<Base2_vi>& cs540::SharedPtr<Base2_vi>::operator=<Derived_vi>(cs540::SharedPtr<Derived_vi> const&)'
+SharedPtr_test.cpp:(.text+0xef3): undefined reference to `cs540::SharedPtr<Derived const>& cs540::SharedPtr<Derived const>::operator=<Derived>(cs540::SharedPtr<Derived> const&)'
+/tmp/ccHN3YsK.o: In function `basic_tests_2()':
+SharedPtr_test.cpp:(.text+0x1794): undefined reference to `cs540::SharedPtr<A>& cs540::SharedPtr<A>::operator=<B>(cs540::SharedPtr<B> const&)'
+SharedPtr_test.cpp:(.text+0x188d): undefined reference to `cs540::SharedPtr<A>& cs540::SharedPtr<A>::operator=<B>(cs540::SharedPtr<B> const&)'
+SharedPtr_test.cpp:(.text+0x18d8): undefined reference to `cs540::SharedPtr<B> cs540::dynamic_pointer_cast<B, A>(cs540::SharedPtr<A> const&)'
+SharedPtr_test.cpp:(.text+0x191d): undefined reference to `cs540::SharedPtr<C> cs540::dynamic_pointer_cast<C, A>(cs540::SharedPtr<A> const&)'
+SharedPtr_test.cpp:(.text+0x1962): undefined reference to `cs540::SharedPtr<B> cs540::dynamic_pointer_cast<B, A>(cs540::SharedPtr<A> const&)'
+SharedPtr_test.cpp:(.text+0x19a4): undefined reference to `cs540::SharedPtr<C> cs540::dynamic_pointer_cast<C, A>(cs540::SharedPtr<A> const&)'
+collect2: error: ld returned 1 exit status
+
+Compiling SharedPtr_test.cpp for smart-pointer-JonathanWu1120
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-JonathanWu1120
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140301499045632: assignment_new=2373158 ops, assignment=999800 ops, reset=2369879 ops, new_default=1681417 ops, new_copy=693456 ops, delete=2373955 ops
+    rates: assignment_new=158211 ops/sec, assignment=66653 ops/sec, reset=157992 ops/sec, new_default=112094 ops/sec, new_copy=46230 ops/sec, delete=158264 ops/sec
+140301490652928: assignment_new=2395731 ops, assignment=1010096 ops, reset=2397140 ops, new_default=1697469 ops, new_copy=700568 ops, delete=2396273 ops
+    rates: assignment_new=159715 ops/sec, assignment=67340 ops/sec, reset=159809 ops/sec, new_default=113165 ops/sec, new_copy=46705 ops/sec, delete=159752 ops/sec
+140301473867520: assignment_new=2380267 ops, assignment=1005992 ops, reset=2383830 ops, new_default=1679503 ops, new_copy=694079 ops, delete=2374688 ops
+    rates: assignment_new=158684 ops/sec, assignment=67066 ops/sec, reset=158922 ops/sec, new_default=111967 ops/sec, new_copy=46272 ops/sec, delete=158313 ops/sec
+140301482260224: assignment_new=2388177 ops, assignment=1006075 ops, reset=2383921 ops, new_default=1679394 ops, new_copy=693607 ops, delete=2374535 ops
+    rates: assignment_new=159212 ops/sec, assignment=67072 ops/sec, reset=158928 ops/sec, new_default=111960 ops/sec, new_copy=46240 ops/sec, delete=158302 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-szaman19
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-szaman19
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+139989995292416: assignment_new=1700281 ops, assignment=718362 ops, reset=1703435 ops, new_default=1203614 ops, new_copy=496576 ops, delete=1698913 ops
+    rates: assignment_new=113352 ops/sec, assignment=47891 ops/sec, reset=113562 ops/sec, new_default=80241 ops/sec, new_copy=33105 ops/sec, delete=113261 ops/sec
+139990003685120: assignment_new=1704381 ops, assignment=717426 ops, reset=1705800 ops, new_default=1207019 ops, new_copy=497843 ops, delete=1705667 ops
+    rates: assignment_new=113625 ops/sec, assignment=47828 ops/sec, reset=113720 ops/sec, new_default=80468 ops/sec, new_copy=33190 ops/sec, delete=113711 ops/sec
+139990012077824: assignment_new=1699096 ops, assignment=715817 ops, reset=1697982 ops, new_default=1202499 ops, new_copy=495647 ops, delete=1697467 ops
+    rates: assignment_new=113273 ops/sec, assignment=47721 ops/sec, reset=113199 ops/sec, new_default=80167 ops/sec, new_copy=33043 ops/sec, delete=113164 ops/sec
+139989986899712: assignment_new=1695926 ops, assignment=715032 ops, reset=1697074 ops, new_default=1199436 ops, new_copy=494618 ops, delete=1695163 ops
+    rates: assignment_new=113062 ops/sec, assignment=47669 ops/sec, reset=113138 ops/sec, new_default=79962 ops/sec, new_copy=32975 ops/sec, delete=113011 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-nvallej1
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-nvallej1
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+Segmentation fault (core dumped)
+
+Compiling SharedPtr_test.cpp for smart-pointer-schen2315
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-schen2315
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+Segmentation fault (core dumped)
+
+Compiling SharedPtr_test.cpp for smart-pointer-aliardaeker
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-aliardaeker
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140098959066880: assignment_new=1798896 ops, assignment=758713 ops, reset=1799707 ops, new_default=1275658 ops, new_copy=525241 ops, delete=1801635 ops
+    rates: assignment_new=119926 ops/sec, assignment=50581 ops/sec, reset=119980 ops/sec, new_default=85044 ops/sec, new_copy=35016 ops/sec, delete=120109 ops/sec
+140098813294336: assignment_new=1796055 ops, assignment=756391 ops, reset=1799190 ops, new_default=1261340 ops, new_copy=521441 ops, delete=1782684 ops
+    rates: assignment_new=119737 ops/sec, assignment=50426 ops/sec, reset=119946 ops/sec, new_default=84089 ops/sec, new_copy=34763 ops/sec, delete=118846 ops/sec
+140098950674176: assignment_new=1801163 ops, assignment=758496 ops, reset=1799551 ops, new_default=1264917 ops, new_copy=521267 ops, delete=1787151 ops
+    rates: assignment_new=120078 ops/sec, assignment=50566 ops/sec, reset=119970 ops/sec, new_default=84328 ops/sec, new_copy=34751 ops/sec, delete=119143 ops/sec
+140098967459584: assignment_new=1799452 ops, assignment=757704 ops, reset=1797909 ops, new_default=1274142 ops, new_copy=525774 ops, delete=1798276 ops
+    rates: assignment_new=119963 ops/sec, assignment=50514 ops/sec, reset=119861 ops/sec, new_default=84943 ops/sec, new_copy=35052 ops/sec, delete=119885 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-PrachiPatel20
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-PrachiPatel20
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Base1::Base1()
+Base1::Base1()
+Base1::Base1()
+Base1::Base1()
+Base1::Base1()
+Base1::Base1()
+Base1::Base1()
+Aborted (core dumped)
+
+Compiling SharedPtr_test.cpp for smart-pointer-swehbe1
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-swehbe1
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140267335182080: assignment_new=2456475 ops, assignment=1036236 ops, reset=2460475 ops, new_default=1740509 ops, new_copy=719027 ops, delete=2458179 ops
+    rates: assignment_new=163765 ops/sec, assignment=69082 ops/sec, reset=164032 ops/sec, new_default=116034 ops/sec, new_copy=47935 ops/sec, delete=163879 ops/sec
+140267343574784: assignment_new=2452381 ops, assignment=1032955 ops, reset=2453037 ops, new_default=1736886 ops, new_copy=717473 ops, delete=2455253 ops
+    rates: assignment_new=163492 ops/sec, assignment=68864 ops/sec, reset=163536 ops/sec, new_default=115792 ops/sec, new_copy=47832 ops/sec, delete=163684 ops/sec
+140267326789376: assignment_new=2447919 ops, assignment=1033738 ops, reset=2450427 ops, new_default=1729847 ops, new_copy=714593 ops, delete=2444774 ops
+    rates: assignment_new=163195 ops/sec, assignment=68916 ops/sec, reset=163362 ops/sec, new_default=115323 ops/sec, new_copy=47640 ops/sec, delete=162985 ops/sec
+140267189434112: assignment_new=2441931 ops, assignment=1028051 ops, reset=2441423 ops, new_default=1724460 ops, new_copy=712690 ops, delete=2437237 ops
+    rates: assignment_new=162795 ops/sec, assignment=68537 ops/sec, reset=162762 ops/sec, new_default=114964 ops/sec, new_copy=47513 ops/sec, delete=162482 ops/sec
+
+Compiling SharedPtr_test.cpp for smart-pointer-grawlixes
+ 
+Succesfully compiled SharedPtr_test.cpp for smart-pointer-grawlixes
+ 
+ Now running the program
+	Force initial allocation on cout: 0x1234
+	Force initial allocation on cerr: 0x1234
+	Force initial allocation on clog: 0x1234
+Tests below:
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Base_polymorphic::Base_polymorphic()
+Base_polymorphic::~Base_polymorphic()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1::Base1()
+Base2::Base2()
+Derived_mi::~Derived_mi()
+Base2::~Base2()
+Base1::~Base1()
+Base1_vi::Base1_vi()
+Base2_vi::Base2_vi()
+Derived_vi::~Derived_vi()
+Base2_vi::~Base2_vi()
+Base1_vi::~Base1_vi()
+Base1::Base1()
+Base1::Base1()
+Derived::~Derived()
+Base1::~Base1()
+Derived::~Derived()
+Base1::~Base1()
+Basic tests 1 passed.
+Basic tests 2 passed.
+Running threaded test for 15 seconds.
+140462419113728: assignment_new=1523096 ops, assignment=642819 ops, reset=1524397 ops, new_default=1079781 ops, new_copy=444664 ops, delete=1523348 ops
+    rates: assignment_new=101540 ops/sec, assignment=42855 ops/sec, reset=101626 ops/sec, new_default=71985 ops/sec, new_copy=29644 ops/sec, delete=101557 ops/sec
+140462410721024: assignment_new=1517092 ops, assignment=639939 ops, reset=1518914 ops, new_default=1075141 ops, new_copy=442974 ops, delete=1519629 ops
+    rates: assignment_new=101139 ops/sec, assignment=42663 ops/sec, reset=101261 ops/sec, new_default=71676 ops/sec, new_copy=29532 ops/sec, delete=101309 ops/sec
+140462274901760: assignment_new=1518785 ops, assignment=639858 ops, reset=1519029 ops, new_default=1072532 ops, new_copy=443312 ops, delete=1514597 ops
+    rates: assignment_new=101252 ops/sec, assignment=42657 ops/sec, reset=101269 ops/sec, new_default=71502 ops/sec, new_copy=29554 ops/sec, delete=100973 ops/sec
+140462402328320: assignment_new=1523563 ops, assignment=642049 ops, reset=1524710 ops, new_default=1076035 ops, new_copy=444171 ops, delete=1520988 ops
+    rates: assignment_new=101571 ops/sec, assignment=42803 ops/sec, reset=101647 ops/sec, new_default=71736 ops/sec, new_copy=29611 ops/sec, delete=101399 ops/sec

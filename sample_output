@@ -1,0 +1,91 @@
+python3 auto_grader.py  github_list bu-cs540-20191s smart-pointer 
+
+Now creating folder for project... 
+ 
+Cloning github repositories ... 
+
+[------------------------]
+
+Succesfully cloned projects in smart-pointer folder
+
+Coping moss from parent directory to project directory and changing its permissions
+
+./moss.pl -l cc -d /home/ashish/aoops/smart-pointer/smart-pointer-Jrising1/* /home/ashish/aoops/smart-pointer/smart-pointer-yma73/* /home/ashish/aoops/smart-pointer/smart-pointer-TroyBallinger/* /home/ashish/aoops/smart-pointer/smart-pointer-ryan-bing/* /home/ashish/aoops/smart-pointer/smart-pointer-dirwin1/* /home/ashish/aoops/smart-pointer/smart-pointer-92kb/* /home/ashish/aoops/smart-pointer/smart-pointer-jeymer/* /home/ashish/aoops/smart-pointer/smart-pointer-smathiv1/* /home/ashish/aoops/smart-pointer/smart-pointer-jleona15/* /home/ashish/aoops/smart-pointer/smart-pointer-leandro19/* /home/ashish/aoops/smart-pointer/smart-pointer-sambrv/* /home/ashish/aoops/smart-pointer/smart-pointer-pgolden1/* /home/ashish/aoops/smart-pointer/smart-pointer-JonathanWu1120/* /home/ashish/aoops/smart-pointer/smart-pointer-szaman19/* /home/ashish/aoops/smart-pointer/smart-pointer-nvallej1/* /home/ashish/aoops/smart-pointer/smart-pointer-schen2315/* /home/ashish/aoops/smart-pointer/smart-pointer-aliardaeker/* /home/ashish/aoops/smart-pointer/smart-pointer-PrachiPatel20/* /home/ashish/aoops/smart-pointer/smart-pointer-swehbe1/* /home/ashish/aoops/smart-pointer/smart-pointer-grawlixes/* 
+Result for the moss is written into report.txt file in your project folder
+SharedPtr_test.cpp
+
+copying SharedPtr_test.cpp into target files
+
+smart-pointer-Jrising1
+smart-pointer-yma73
+SharedPtr_test.cpp
+cp: 'SharedPtr_test.cpp' and '/home/ashish/aoops/smart-pointer/SharedPtr_test.cpp' are the same file
+smart-pointer-TroyBallinger
+smart-pointer-ryan-bing
+smart-pointer-dirwin1
+smart-pointer-92kb
+smart-pointer-jeymer
+smart-pointer-smathiv1
+smart-pointer-jleona15
+smart-pointer-leandro19
+smart-pointer-sambrv
+smart-pointer-pgolden1
+smart-pointer-JonathanWu1120
+smart-pointer-szaman19
+smart-pointer-nvallej1
+smart-pointer-schen2315
+smart-pointer-aliardaeker
+smart-pointer-PrachiPatel20
+*** Error in `./a.out': double free or corruption (fasttop): 0x0000000000c22eb0 ***
+======= Backtrace: =========
+/lib/x86_64-linux-gnu/libc.so.6(+0x777e5)[0x7fe305a787e5]
+/lib/x86_64-linux-gnu/libc.so.6(+0x8037a)[0x7fe305a8137a]
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7fe305a8553c]
+./a.out(_ZdlPv+0x60)[0x401704]
+./a.out[0x404464]
+./a.out[0x401a61]
+./a.out[0x401652]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0)[0x7fe305a21830]
+./a.out[0x4013c9]
+======= Memory map: ========
+00400000-0040a000 r-xp 00000000 08:01 5114988                            /home/ashish/aoops/smart-pointer/a.out
+00609000-0060a000 r--p 00009000 08:01 5114988                            /home/ashish/aoops/smart-pointer/a.out
+0060a000-0060b000 rw-p 0000a000 08:01 5114988                            /home/ashish/aoops/smart-pointer/a.out
+00c10000-00c42000 rw-p 00000000 00:00 0                                  [heap]
+7fe300000000-7fe300021000 rw-p 00000000 00:00 0 
+7fe300021000-7fe304000000 ---p 00000000 00:00 0 
+7fe3056f8000-7fe305800000 r-xp 00000000 08:01 31200106                   /lib/x86_64-linux-gnu/libm-2.23.so
+7fe305800000-7fe3059ff000 ---p 00108000 08:01 31200106                   /lib/x86_64-linux-gnu/libm-2.23.so
+7fe3059ff000-7fe305a00000 r--p 00107000 08:01 31200106                   /lib/x86_64-linux-gnu/libm-2.23.so
+7fe305a00000-7fe305a01000 rw-p 00108000 08:01 31200106                   /lib/x86_64-linux-gnu/libm-2.23.so
+7fe305a01000-7fe305bc1000 r-xp 00000000 08:01 31200103                   /lib/x86_64-linux-gnu/libc-2.23.so
+7fe305bc1000-7fe305dc1000 ---p 001c0000 08:01 31200103                   /lib/x86_64-linux-gnu/libc-2.23.so
+7fe305dc1000-7fe305dc5000 r--p 001c0000 08:01 31200103                   /lib/x86_64-linux-gnu/libc-2.23.so
+7fe305dc5000-7fe305dc7000 rw-p 001c4000 08:01 31200103                   /lib/x86_64-linux-gnu/libc-2.23.so
+7fe305dc7000-7fe305dcb000 rw-p 00000000 00:00 0 
+7fe305dcb000-7fe305de3000 r-xp 00000000 08:01 31200090                   /lib/x86_64-linux-gnu/libpthread-2.23.so
+7fe305de3000-7fe305fe2000 ---p 00018000 08:01 31200090                   /lib/x86_64-linux-gnu/libpthread-2.23.so
+7fe305fe2000-7fe305fe3000 r--p 00017000 08:01 31200090                   /lib/x86_64-linux-gnu/libpthread-2.23.so
+7fe305fe3000-7fe305fe4000 rw-p 00018000 08:01 31200090                   /lib/x86_64-linux-gnu/libpthread-2.23.so
+7fe305fe4000-7fe305fe8000 rw-p 00000000 00:00 0 
+7fe305fe8000-7fe305ffe000 r-xp 00000000 08:01 31196185                   /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fe305ffe000-7fe3061fd000 ---p 00016000 08:01 31196185                   /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fe3061fd000-7fe3061fe000 r--p 00015000 08:01 31196185                   /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fe3061fe000-7fe3061ff000 rw-p 00016000 08:01 31196185                   /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fe3061ff000-7fe306378000 r-xp 00000000 08:01 38289448                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.24
+7fe306378000-7fe306578000 ---p 00179000 08:01 38289448                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.24
+7fe306578000-7fe306582000 r--p 00179000 08:01 38289448                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.24
+7fe306582000-7fe306584000 rw-p 00183000 08:01 38289448                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.24
+7fe306584000-7fe306588000 rw-p 00000000 00:00 0 
+7fe306588000-7fe3065ae000 r-xp 00000000 08:01 31200089                   /lib/x86_64-linux-gnu/ld-2.23.so
+7fe306785000-7fe30678c000 rw-p 00000000 00:00 0 
+7fe3067ac000-7fe3067ad000 rw-p 00000000 00:00 0 
+7fe3067ad000-7fe3067ae000 r--p 00025000 08:01 31200089                   /lib/x86_64-linux-gnu/ld-2.23.so
+7fe3067ae000-7fe3067af000 rw-p 00026000 08:01 31200089                   /lib/x86_64-linux-gnu/ld-2.23.so
+7fe3067af000-7fe3067b0000 rw-p 00000000 00:00 0 
+7ffe867d6000-7ffe867f7000 rw-p 00000000 00:00 0                          [stack]
+7ffe867f8000-7ffe867fb000 r--p 00000000 00:00 0                          [vvar]
+7ffe867fb000-7ffe867fd000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+smart-pointer-swehbe1
+smart-pointer-grawlixes

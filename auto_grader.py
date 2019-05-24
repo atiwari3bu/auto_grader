@@ -111,9 +111,9 @@ def compilingAndRunning(data):
         i=0
 
         for submission in os.listdir(os.getcwd()):
-            if(i==1):
-                break
-            i+=1
+            #if(i==1):
+            #    break
+            #i+=1
             if(submission in data.exclude):
                 continue
 
@@ -143,7 +143,6 @@ def compilingAndRunning(data):
             os.system("rm out") 
 
         os.system("rm {}".format(test_file))
-#ashish@ashish-Inspiron:~/aoops/smart-pointer$ g++ -std=c++14 smart-pointer-pgolden1/SharedPtr_test.cpp -ldl -pthread > out 2>&1
 
 def main(arg):
     if(len(arg)!=4):
